@@ -187,7 +187,7 @@ Read more about [smart contracts](/docs/developers/smart-contracts/)
 
 Read more about [smart contracts](/en/docs/developers/smart-contracts)
 Read more about [smart contracts](/docs/developers/smart-contracts)
-Read more about [smart contracts](https://ethereum.org/docs/developers/smart-contracts)
+Read more about [smart contracts](https://ethereum.org/developers/docs/smart-contracts)
 ```
 
 Please also add a trailing slash to all links. This keeps links consistent and avoids redirects, which hurts site performance.
